@@ -1,8 +1,14 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&pause=1000&color=FFD700&background=1C1C1C00&center=true&vCenter=true&multiline=true&width=700&lines=I+am;Ajeyoshi+KaminaRyu&repeat=true&cursor=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=50&pause=1000&color=FFA500&background=1C1C1C&center=true&vCenter=true&width=700&lines=I+am&repeat=true&cursor=true" alt="Typing Line 1" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=50&pause=1000&color=FFA500&background=1C1C1C&center=true&vCenter=true&width=700&lines=AJEYOSHI+KAMINARYU&repeat=true&cursor=true&delay=2000" alt="Typing Line 2" />
+</p>
+
+
 
 
 ### 🛠️ My Tech Stack
