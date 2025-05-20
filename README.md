@@ -1,60 +1,8 @@
 ## Hi there 👋
 
-### 🛠️ My Tech Stack (Circular Layout ✨)
-
-<!-- Outer Ring -->
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&width=435&lines=Ajeyoshi+KaminaRyu" alt="Typing SVG" />
 </p>
-
-<!-- Mid Ring -->
-<p align="center">
-  &nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /></a>
-  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /></a>
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /></a>
-  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" /></a>
-  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" /></a>
-</p>
-
-<!-- Inner Ring -->
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
-  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" /></a>
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
-  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" /></a>
-</p>
-
-<!-- Base Ring -->
-<p align="center">
-  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /></a>
-  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-1C70C6?style=flat" /></a>
-  <a href="https://wandb.ai/"><img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
-  <a href="https://labelstud.io/"><img src="https://img.shields.io/badge/Label_Studio-4C4CFF?style=flat" /></a>
-</p>
-
-<!-- Cloud & Env -->
-<p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /></a>
-  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></a>
-  <a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" /></a>
-</p>
-
 
 ### 🛠️ My Tech Stack
 
