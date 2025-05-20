@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&width=435&lines=Ajeyoshi+KaminaRyu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&pause=1000&color=FFD700&background=1C1C1C00&center=true&vCenter=true&multiline=true&width=700&lines=I+am;Ajeyoshi+KaminaRyu&repeat=true&cursor=true" alt="Typing SVG" />
 </p>
+
 
 ### 🛠️ My Tech Stack
 
