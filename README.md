@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=50&pause=1000&color=FFA500&background=1C1C1C&center=true&vCenter=true&width=700&lines=I+am&repeat=true&cursor=true" alt="Typing Line 1" />
-  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=50&pause=1000&color=FFA500&background=1C1C1C&center=true&vCenter=true&width=700&lines=AJEYOSHI+KAMINARYU&repeat=true&cursor=true&delay=2000" alt="Typing Line 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=100&size=50&color=FFA500&multiline=true&center=true&vCenter=true&height=150&width=700&lines=I+am;AJEYOSHI+KAMINARYU&repeat=true&cursor=true" alt="Typing Line 1" />
 </div>
 
 
